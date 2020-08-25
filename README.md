@@ -14,4 +14,4 @@ The software then creates a dataframe from all amplitude data. The user must the
 After clustering the positive and negative cluster are used to generate positive and negative thresholds. The positive threshold is 3 standard deviations lower than the mean of the positive cluster. The negative threshold is 3 standard deviations higher than the mean of the negative cluster. Anything that is found between the two thresholds is call droplet rain.
 
 ## Diagram and table generation
-Finally, a plotly tablet and diagram are generated from the amplitude data.
+Finally, a plotly table and diagram are generated from the amplitude data.
